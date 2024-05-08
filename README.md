@@ -1,0 +1,1 @@
+Please Check lcm url from nutanix support portal. After modyfing the "lcm_download.sh", you can run "create_url_file.sh" to create url_XXXXXXX.txt file. Finally, run check_url.sh url_XXXXXXX.txt and Confirm whether the url response is 200 OK.
