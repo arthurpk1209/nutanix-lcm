@@ -1,5 +1,5 @@
 #
-# last modified : 2024/05/23
+# last modified: 2024/05/23
 #
 # Major in supporting AOS LTS versions, 6.5.x, STS 6.7.x
 # 
@@ -10,14 +10,14 @@
 cmd='curl -O'
 
 # LCM
-$cmd http://download.nutanix.com/lcm/3.0/lcm_dark_site_bundle_3.0.48302.tar.gz
+$cmd http://download.nutanix.com/lcm/3.0-H/lcm_dark_site_bundle_3.0.48302-H.tar.gz
 
 # latest compatibility & signature files 
 $cmd https://download.nutanix.com/product-meta/lcm/nutanix_compatibility_bundle.tar.gz
 
 # Foundation
-$cmd http://download.nutanix.com/Foundation/5.6.0.1/lcm_foundation_5.6.0.1tar.gz
-$cmd http://download.nutanix.com/Foundation/Platforms/2.15.0.1/lcm_foundation_platforms_2.15.0.1.tar.gz
+$cmd http://download.nutanix.com/Foundation/5.6.0.1/lcm_foundation_5.6.0.1.tar.gz
+$cmd http://download.nutanix.com/Foundation/Platforms/2.15.0.1/foundation-platforms-2.15.0.1.tar.gz
 $cmd http://download.nutanix.com/foundation_central/releases/1.6/lcm_foundation-central_1.6.tar.gz
 
 # Firmware
@@ -47,7 +47,8 @@ $cmd http://download.nutanix.com/FlowCVM/4.1.0/lcm_flow_cvm_4.1.0.tar.gz
 $cmd http://download.nutanix.com/AdvancedNetworking/lcm-builds/darksite/4.0.0.tar.gz
 
 # Nutanix Kubernetes Engine
-$cmd http://download.nutanix.com/karbon/lcm-builds/darksite/2.10.0/lcm_NKE_2.10.0.tar.gz
+$cmd http://download.nutanix.com/karbon/2.10.0/lcm_karbon_2.10.0.tar.gz
+$cmd http://download.nutanix.com/karbon/2.10.0/airgap-ntnx-2.10.0.tar.gz
 
 # AOS STS 6.8.x & AHV
 $cmd http://download.nutanix.com/releases/6.8/lcm_nos_6.8.tar.gz
@@ -72,4 +73,4 @@ $cmd http://download.nutanix.com/Calm/3.8.0/Epsilon-3.8.0.zip
 $cmd http://download.nutanix.com/Calm/3.8.0/NuCalm-3.8.0.zip
 
 # MSP
-$cmd http://download.nutanix.com/MSP/2.4.6.0/lcm_darksite_msp-2.4.6.0.tar.gz
+$cmd http://download.nutanix.com/MSP/2.4.6.0/lcm_msp_2.4.6.0.tar.gz
