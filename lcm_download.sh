@@ -48,7 +48,6 @@ $cmd http://download.nutanix.com/AdvancedNetworking/lcm-builds/darksite/4.0.0.ta
 
 # Nutanix Kubernetes Engine
 $cmd http://download.nutanix.com/karbon/2.10.0/lcm_karbon_2.10.0.tar.gz
-$cmd http://download.nutanix.com/karbon/2.10.0/airgap-ntnx-2.10.0.tar.gz
 
 # AOS STS 6.8.x & AHV
 $cmd http://download.nutanix.com/releases/6.8/lcm_nos_6.8.tar.gz
