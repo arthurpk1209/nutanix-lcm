@@ -1,7 +1,7 @@
 #
 # last modified: 2024/05/23
 #
-# Major in supporting AOS LTS versions, 6.5.x, STS 6.7.x
+# Major in supporting AOS LTS versions, 6.5.x, eSTS 6.8.x
 # 
 #
 # Files for LCM DARK SITE USE only
