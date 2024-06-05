@@ -17,8 +17,6 @@ $cmd https://download.nutanix.com/product-meta/lcm/nutanix_compatibility_bundle.
 
 # FOUNDATION
 $cmd http://download.nutanix.com/Foundation/5.6.0.1/lcm_foundation_5.6.0.1.tar.gz
-# FOUNDATION_PLATFORM
-$cmd http://download.nutanix.com/Foundation/Platforms/2.15.0.1/foundation-platforms-2.15.0.1.tar.gz
 # FOUNDATION_CENTRAL
 $cmd http://download.nutanix.com/foundation_central/releases/1.6/lcm_foundation-central_1.6.tar.gz
 
