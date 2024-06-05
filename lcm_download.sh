@@ -74,8 +74,9 @@ $cmd http://download.nutanix.com/cmu/lcm-builds/darksite/2.0.3/lcm_cmu_2.0.3.tar
 # Compatible with Nutanix Cluster version AOS 6.8 and Prism Central version pc.2024.1 and above.
 $cmd http://download.nutanix.com/ncc/v5.0.0/lcm_ncc_5.0.0.tar.gz
 
-# Self Service(formerly Calm)
+# SELF_SERVICE_EPSILON
 $cmd http://download.nutanix.com/Calm/3.8.0/Epsilon-3.8.0.zip
+# SELF_SERVICE_NUCALM
 $cmd http://download.nutanix.com/Calm/3.8.0/NuCalm-3.8.0.zip
 
 # MSP
